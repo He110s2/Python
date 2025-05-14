@@ -11,4 +11,4 @@ multiplicação = 2 * 1
 divisao = 2 / 1
 
 #operador de exponenciacao (potencia)
-exponenciacao = 2 ** 1                      
+exponenciacao = 2 ** 1
