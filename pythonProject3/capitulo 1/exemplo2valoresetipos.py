@@ -12,3 +12,4 @@ print(type(char1))
 #string conjunto de caracteres
 stringNome = 'Helloiza'
 print(type(stringNome))
+
