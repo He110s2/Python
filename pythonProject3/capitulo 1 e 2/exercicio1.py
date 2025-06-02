@@ -1,7 +1,10 @@
-fracao = 4/3
 pi = 3.14
-raio = 5 ** 3
+raio = int(input("insira o número do raio"))
 
-volume = fracao * pi * raio
+diametro = 2 * raio
+circunferencia = 2 * pi * raio
+area = pi * raio ** 2
 
-print("O volume de uma esfera de raio 5 é:", volume)
+print(area)
+print(circunferencia)
+print(diametro)
